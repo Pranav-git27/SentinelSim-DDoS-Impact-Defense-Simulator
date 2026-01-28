@@ -1,0 +1,5 @@
+{
+  "name": "SentinelSim: DDoS Impact & Defense Simulator",
+  "description": "An educational cybersecurity dashboard for simulating DoS/DDoS traffic patterns, analyzing server impact, and testing mitigation strategies using synthetic data and AI insights.",
+  "requestFramePermissions": []
+}
